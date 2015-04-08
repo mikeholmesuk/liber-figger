@@ -1,0 +1,9 @@
+web:
+  build: .
+  command: java -jar app-standalone.jar
+  volumes:
+    - .:/code
+  environment:
+    APP_ENV: "develop"
+  ports:
+    - "8000:3000"
