@@ -4,7 +4,7 @@ This is a really small demo project shoing how to get a Clojure Compojure/ Liber
 
 ## Usage
 
-Pretty simple really. Make sure you have installed [Docker|https://docs.docker.com/installation/] (Boot2Docker on Mac OSX) and [Fig|http://www.fig.sh/install.html]. Once you've done that, simply run the following command from the project root:
+Pretty simple really. Make sure you have installed [Docker](https://docs.docker.com/installation/) (Boot2Docker on Mac OSX) and [Fig](http://www.fig.sh/install.html). Once you've done that, simply run the following command from the project root:
 
 	fig up
 
